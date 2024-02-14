@@ -1,0 +1,10 @@
+"use strict";
+let numeros = [20, 30, 40];
+let numreros = [10, 20];
+let numeross = [20, 30, 40];
+let numeros_ro = [10, 20, 30, 40];
+numeros.push(300);
+numeros.unshift(400);
+numeros.pop();
+numeros.shift();
+console.log(numeros);
